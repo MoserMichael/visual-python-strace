@@ -8,11 +8,11 @@ def read(fname):
 
 setup(
     name = "pd",
-    version = "0.0.3",
+    version = "0.0.4",
     author = "Michael Moser",
     author_email = "moser.michael@gmail.com",
     description = ("more detailed python backtraces (similar to backtrace module)"),
-    license = "BSD",                                                            
+    license = "BSD",
     keywords = "backtrace, debugging",
     url = "https://github.com/MoserMichael/visual-python-strace",
     packages=['pd', 'tests'],
@@ -21,8 +21,8 @@ setup(
     zip_safe=False,
     classifiers=[
         "Topic :: Utilities",
-	"Intended Audience :: Developers",
- 	"Operating System :: OS Independent",
+        "Intended Audience :: Developers",
+        "Operating System :: OS Independent",
         "License :: OSI Approved :: BSD License",
     ],
 )
