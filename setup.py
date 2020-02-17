@@ -14,7 +14,7 @@ setup(
     description = ("more detailed python backtraces (similar to backtrace module)"),
     license = "BSD",                                                            
     keywords = "backtrace, debugging",
-    url = "http://mosermichael.github.io/cstuff/all/projects/2015/02/24/python-backtrace.html",
+    url = "https://github.com/MoserMichael/visual-python-strace",
     packages=['pd', 'tests'],
     long_description=read('README.md'),
     long_description_content_type='text/markdown',
