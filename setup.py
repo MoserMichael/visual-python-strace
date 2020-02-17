@@ -8,7 +8,7 @@ def read(fname):
 
 setup(
     name = "pd",
-    version = "0.0.2",
+    version = "0.0.3",
     author = "Michael Moser",
     author_email = "moser.michael@gmail.com",
     description = ("more detailed python backtraces (similar to backtrace module)"),
