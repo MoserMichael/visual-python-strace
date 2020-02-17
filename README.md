@@ -5,6 +5,9 @@ can be used instead of traceback.
  
 Written by Michael Moser (c) 2015
 
+this project on pypi [link](https://test.pypi.org/project/pd/)
+
+
 Functions
 
 ```      	 	
