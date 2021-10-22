@@ -7,6 +7,8 @@ Written by Michael Moser (c) 2015
 
 this project on pypi [link](https://test.pypi.org/project/pd/)
 
+You can install the package as: ```pip install -i https://test.pypi.org/simple/ pd```
+
 
 Functions
 
